@@ -25,8 +25,8 @@
 # include <unistd.h>
 
 # define DEBUG_MODE 1
-# define WIDTH 1500//1280 // 640
-# define HEIGHT 1000//720 // 400
+# define WIDTH 640
+# define HEIGHT 400
 
 # define MAX_RAY_LENGTH 1000
 # define ROTATION_SPEED 2
